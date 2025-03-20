@@ -1,0 +1,19 @@
+{
+    "articles": [
+        {
+            "title": "Sonic X Anniversary Celebration Announced!",
+            "description": "SEGA has announced a special event celebrating the anniversary of Sonic X. Get ready for exclusive content, merchandise, and more!",
+            "link": "https://sonicthehedgehog.com/news/sonic-x-anniversary"
+        },
+        {
+            "title": "New Sonic Game Teased at SEGA Direct",
+            "description": "A mysterious new Sonic game has been teased during SEGA Direct. Fans speculate it could be an open-world adventure!",
+            "link": "https://sonicthehedgehog.com/news/new-sonic-game"
+        },
+        {
+            "title": "Sonic Movie 3 Set for 2026 Release",
+            "description": "Paramount has confirmed the third Sonic the Hedgehog movie is in production, with a release date set for 2026!",
+            "link": "https://sonicthehedgehog.com/news/sonic-movie-3"
+        }
+    ]
+}
